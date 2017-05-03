@@ -37,6 +37,6 @@
  3) How to manage everyday financial activities such as collecting from customers and paying suppliers? 
  
  ## financial manager
- ![Image of role](https://amybohbeanii.github.com/Study/finance.png)
+ ![Image of role](https://amybohbeanii.github.com/finance.png)
  
  

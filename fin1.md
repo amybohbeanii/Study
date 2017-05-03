@@ -30,5 +30,13 @@
  ### international finance
  * portfolio and security analysts specialzie in non US companies, or have extensive overseas operations, need employees familiar with international topics such as exchange rates and political risk. Banks might make loans across country lines, so a role is international sepcialists. 
  
+ ## business finance
+ * if I start own business I need to know
+ 1) What long term investments should I take on? What buildings, machinery, and equipment do I need?
+ 2) How to get long term financing to pay for investments? Will I borrow money or bring in other owners?
+ 3) How to manage everyday financial activities such as collecting from customers and paying suppliers? 
+ 
+ ## financial manager
+ ![Image of role](https://amybohbeanii.github.com/Study/finance.png)
  
  

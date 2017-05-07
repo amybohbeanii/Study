@@ -97,9 +97,51 @@
   * large corp, we can assume the average and margnal tax rates of 35%
   
   ## cash flow
+  * its not unusal for growing corp to hae  negative cash flow... it can mean the firm raised more money by borrowing and selling stock than it paid out to creditors and stockhodlers that year
   * dont confused with financial accounting's statement of cash flows
   ```
   cash flow from assets = cash flow to creditors + cash flow to stockholders (or owners of firm if not a corp)
   ```
   
+ ## CF from assets/free cash flow
+  * 3 components
+  ```
+  CF from assets = operating cash flow - net capital spending - change in NWC
+  ```
+  1) operating CF (results from day-to day activites of producing and selling)
+  2) capital spending (purchases of fixed assets-sales of fixed assets)
+  3) change in net working capital (amount spent on net working capital)
+  
+  ## operating cash flow (OCF)
+  ```
+  total OCF = EBIT + depreciation - taxes
+  ```
+  * equation differs from accounting bc of the interest expense. interest is defined as a financing expense in coprate finance
+  
+ * on basic level is tells whether the firm's cash inflows from business operations are sufficient to cover everyday cash outflows. Negative operating cash flow is sign of trouble
  
+  ## net capital spending
+  ```
+  net capital spending/net investment in fixed assets = ending net fixed assets - beginning net fixed assets + depreciation 
+  ```
+   * can be negative
+   
+  ## change in NWC
+  ```
+  Change in NWC = Ending NWC - Beginning NWC
+  ```
+  
+  
+   ## cash flow to creditors and stockholders
+   * interest paid is on income statement
+   * net new borrowing is on balance sheet (long term debt today - long term debt yesterday)
+   ```
+   cash flow to creditors = interest paid - net new borrowing
+   ```
+    * dividends paid is on income statement
+    
+   ```
+   cash flow to stockholders = dividends paid - net new equity raised
+   ```
+   
+  

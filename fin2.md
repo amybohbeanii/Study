@@ -138,6 +138,7 @@
    ```
    cash flow to creditors = interest paid - net new borrowing
    ```
+   
     * dividends paid is on income statement
     
    ```

@@ -169,3 +169,63 @@
  EBITDA ratio = enterprise value/EBITDA
  ```
   
+ ## Dupont Identity
+ ```
+ ROE = Profit Margin * Total asset turnover * Equity multiplier
+ ```
+ 
+  * dupont identity is affected by three things
+  1) operating efficiency (profit margin)
+  2) asset use efficiency (total asset turnover)
+  3) financial leverage (equity multiplier)
+  
+  * if ROE is low, then DuPont Identity tells you where the reasoning is. Ex: ROE fell because of sharp decline in profit margin and total asset turnover...
+  
+ ## internal and sustainable growth
+ 
+ ``` 
+ dividend payout ratio = cash dividends/net income
+ 33% = $121/$363
+ (1/3 of its netincome in dividends is paid)
+ 
+ retention ratio/plowback ratio = addition to retained earnings/net income
+ 66% = $242/$363
+
+ investors are interested to know how rapid firm's sales can grow. Firm's ability to grow depends on its financing policies. Two sources of financing: internal and external. Internal is what firm earns and plows back into business. External is funds raised by borrowing money or selling stock
+ 
+ If firm's policy of financing growth is only using interal financing (no selling of stock), then firm growth is calculated using
+ 
+ internal growth rate = ROA * b/(1-ROA) * b
+ (b is the retention ratio)
+ 7.23% = .1012 * 2/3/(1-.1012) * 2/3
+ (This means if firm relies solely on internally generated financing, it can grow at max rate of 7.23% per year
+ 
+ sustainable growth rate = ROE * b/(1-ROE) * b
+ ```
+ 
+  * firm's abiility to sustain growth depends explicitly on the following factors
+  1) profit margin
+  2) toal asset turnover
+  3) financil policy
+  4) dividend policy
+  
+  ## how to evaluate financial statement info
+   * key source of info about firm's financial health
+   * existence of diff standards and procedsures makes it difficult to compare financial statement across national borders 
+   * when there are monopolies, or diff operating activities, then profits are diff.
+   * diff in when fiscal years end means difficultly in omoparing balance sheets especially for seasonal businesses.
+   
+   * internal uses:
+   1) for performance evaluation
+   2) for future planning and for checking realism of assumptions made in those projections
+   
+   * external uses:
+   1) for short term ad long term creditors and potential investors
+   2) large customers use info to see if firm will be aroud in future
+   3) for assessing firm's creditworthiness by credit-rating agencies
+   4) useful for evaluating competitors. See if competitor has financial strength to see if they can afford such development to launch a new product.
+   5) useful for acquiring another firm. To identify what to offer
+   
+   * benchmark/standard of comparison
+   * can use historical data usnig time-trend analysis for investigation.
+   * can use peer group analysis by identifying firms that compete in same markets, have similar assets, and ooerate in similar ways.

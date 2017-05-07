@@ -122,7 +122,50 @@
      * high or low is good or bad
      
   ## profitability ratios
+   * these are the best known and widely used financial ratios... they measure 
+   1) how efficiently firm uses assets
+   2) how efficiently firm manages operations
+   * focused on net income
+   
+   ```
+   profit margin = net income/sales
+   15.7% = $363/$2,311
+   ```
+   
+    * high profit margin is desirable
+   
+  ```
+  return on assets (ROA) = net income/total assets
+  10.1% = $363/$3,588
   
+  return on equity (ROE) = net income/total equity
+  14.0% = $363/$2,591
+  ```
+  
+   
   ## market value ratios
-  
+   * market price per share of stock (for publicly traded companies)
+   
+   * with assumption that company has 33 million shares oustanding and stock sold for $88 per share, sales $2,311 and net income was $363 million...
+ 
+ ```
+ Earnings per share (EPS) = Net income/Shares outstanding
+ $11 = $363/33
+ 
+ Price-Earnings Ratio (PE Ratio) = Price per share/EPS
+ 8 times = $88/$11
+ 
+ (higher PE ratio means firm has significant prospects for future growht)
+ 
+ Price-sales ratio = Price per share/Sales per share
+ 1.26 times = $88/($2,311/33)
+ 
+ Market-to-book ratio = market value per share/book value per share 
+ 1.12 times = $88/($2,591/33)
+ (book value per share is total equity divided by number of shares outstanding)
+ (value less than 1 can mean firm is not successful overall in creating value for stockholders)
+ 
+ enterprise value = total market value of the stock + book value of all liabilities - Cash
+ EBITDA ratio = enterprise value/EBITDA
+ ```
   

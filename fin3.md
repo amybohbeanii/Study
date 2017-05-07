@@ -71,8 +71,56 @@
   
   
   
-  ## asset management (turnover) ratios
+  ## asset management (turnover) / asset utilization ratios
+   * efficiency of using assets to generate sales
+   * two important current assets: inventory and receivables
+   
+  ```
+  inventory turnover = cost of goods sold/inventory
+  3.2 times = $1,344/$422
+  ```
+  * the higher number, the more efficiently the inventory is being managed
+  * this ratio lets us calc average days sales in inventory
+  * how fast we can sell products
+  ```
+   days sales in invetory = 365/inventory turnover
+   115 days = 365/3.2
+  ```
+   * inventory sits 115 days on average before its sold.
   
+  ```
+  receivables turnover = sales/ accounts receivable
+  12.3 times = $2,311/$188
+  ```
+  
+   * how fast we can colelct on sales
+   * collect outstanding credit accounts and reloaned the money 12.3 times during the year
+   * might make more sense if converted to days
+   
+   ```
+   days' sales in receivables = 365 days/receivables turnovers
+   30 days = 365/12.3
+   ```
+    * on average, credit sales is collected in 30 days.
+    * also called average collection period (ACP)
+    
+    ```
+    payables turnover = COGS/accounts payable
+    3.9 times = $1,344/$344
+    
+    days' costs in payables 365/3.9 = 94 days. 
+    ```
+    
+     * average, takes 95 days to pay. Creditor cares about this
+     
+    ```
+    total asset turnover = sales / total assets
+    .64 times = $2,311/$3,588
+    ```
+    
+     * big picture ratio. For every dollar, .64 was generated in sales
+     * high or low is good or bad
+     
   ## profitability ratios
   
   ## market value ratios

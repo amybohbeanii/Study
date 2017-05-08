@@ -41,4 +41,13 @@
     4) long-term US gov bonds (20 years to maturity)
     5) US treasury bills (one month maturity)
 
-![Image of role](https://github.com/amybohbeanii/Study/blob/master/finance.png)
+![Image of role](https://github.com/amybohbeanii/Study/blob/master/history.png)
+
+ * small-company did the best overall but was erratic.
+ * long term gov bonds and treasury bills grew more steady but slowly
+ * treasury bills are also predictable
+ 
+ ![Image of role](https://github.com/amybohbeanii/Study/blob/master/treasury.png)
+ ![Image of role](https://github.com/amybohbeanii/Study/blob/master/small.png)
+ ![Image of role](https://github.com/amybohbeanii/Study/blob/master/large.png)
+ 

@@ -48,6 +48,52 @@
  * treasury bills are also predictable
  
  ![Image of role](https://github.com/amybohbeanii/Study/blob/master/treasury.png)
+ * small
  ![Image of role](https://github.com/amybohbeanii/Study/blob/master/small.png)
+ * large
  ![Image of role](https://github.com/amybohbeanii/Study/blob/master/large.png)
  
+ ## average returns - historical record
+ 1) large stocks - 12.1% avg return, 8.6% risk premium
+ 2) small stocks - 16.7%; 13.2%
+ 3) long-term corp bonds - 6.4%; 2.9%
+ 4) long-term gov bonds - 6.1%; 2.6%
+ 5) US treasury bills - 3.5%; risk free
+ 6) Inflation  3%
+ 
+ * real rate on treasury bills was .5% per year
+ 
+ ## risk premiums
+  * gov can raise taxes to pay its bills, so T-bills have risk-free return. Other spectrum is common stocks which are very risky. Stock of a large US corporatioin has about average risk compared to all risky assets
+  * risk premium: a reward for breaking risk
+  
+  ## variability of returns
+  * measures of volatity (how far actual return deviates from the avg)
+  * larger the numbers, the mpread out the returns will be.
+  1) variance: average squared diff between actual returns and the average return. Bigger the number, the more actual returns tend to differ from avg return
+  2) standard deviation
+  
+  ![Image of role](https://github.com/amybohbeanii/Study/blob/master/variance.png)
+  1) variance = .027/(4-1) = .009
+  2) SD = square root of .009 = .09487
+  
+  ![Image of role](https://github.com/amybohbeanii/Study/blob/master/distribution.png)
+  * normal distribution: probability of ending up in given range
+ 
+  * a diversified portfolio of stocks and bonds might suffer, but the losses would be much smaller than those experienced by an all stock portfolio (2008)
+  
+  ## arithmetic versus geometric averages
+  * geometric average return: average compound return per year over a particular period, always smaller
+  
+  ```
+  if we have T years of returns,
+  geometric average return = (1+R(1)) * (1+R(2)) * ... * (1+R(t))^(1/t) - 1
+  
+  or if given graph below, convert arithmetic is geometric..
+  arithmetic - (variance/2) = geometric
+  ```
+  
+  ![Image of role](https://github.com/amybohbeanii/Study/blob/master/geometric.png)
+  
+  
+  

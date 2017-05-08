@@ -36,6 +36,8 @@
    
    ** this sounds easy, but its the difficulty of coming up with the cash flows and discount rate
    
+   
+   ```
     ## payback rule
     * payback: length of time it takes to recover initial investment. 
     * payback period: is just number of years

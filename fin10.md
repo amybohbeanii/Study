@@ -40,3 +40,5 @@
     3) long-term corporate bonds (bonds with 20 years to maturity)
     4) long-term US gov bonds (20 years to maturity)
     5) US treasury bills (one month maturity)
+
+![Image of role](https://github.com/amybohbeanii/Study/blob/master/finance.png)

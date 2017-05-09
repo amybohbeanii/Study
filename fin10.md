@@ -1,4 +1,5 @@
  ## lessons from capital market history
+  * greater the potential reward from risky investment, greater the risk
   * this chapter is about the relation between risk and return
   * practical info for thinking about investing in financial assets (stocks, bonds)
   * specifically, what rate you should expect moeny to grow per year
@@ -83,7 +84,10 @@
   * a diversified portfolio of stocks and bonds might suffer, but the losses would be much smaller than those experienced by an all stock portfolio (2008)
   
   ## arithmetic versus geometric averages
+  * arithmetic average return: what you earn in a particular year
   * geometric average return: average compound return per year over a particular period, always smaller
+  * arithmetic avg return is probably too high for longer periods, and geo. too low for shortter periods.
+  * use arithmetic for long run projects and short run projects use geometric
   
   ```
   if we have T years of returns,
@@ -95,5 +99,14 @@
   
   ![Image of role](https://github.com/amybohbeanii/Study/blob/master/geometric.png)
   
+  ## capital market efficiency
+  * a market is efficient when prices adjust quickly and correctly when new information arrives
+  * efficient capital market: current market prices fully reflect available info
   
-  
+![Image of role](https://github.com/amybohbeanii/Study/blob/master/reaction.png)
+
+ * efficient market hypothesis (EMH): well organized markets such as NYSE are efficient markets. While inefficiencies may exist, they are relatively small and not common
+ * three forms of market efficiency
+ 1) weak form efficient: reflects past prices
+ 2) semistrong form efficient: all public info is reflected in stock price
+ 3) strong form efficient: all info of every kind is reflected in stock prices

@@ -28,10 +28,8 @@
   ## expected returns and variances
   * need to review this section
  
- 
- ```
    risk premium = expected return - risk-free rate
-   ```
+
    
    * variance = probability * (possibility1)^2 + probability * (possibility2)^2
    * standard deviation is square root of variance

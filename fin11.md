@@ -2,7 +2,8 @@
  * last chpter was about calculating average returns and variances using historical data. This chpter is about analyzing returns and variances when info concerns future possible returns and probabilities
  * votality measured by looking at difference between actual return and exepected return. But why do deviations exist?
  * risk is extremely important consideration in almost all business decisions. 
- ## learning goals
+
+## learning goals
  1) calc expected returns
  2) explain impact of diversification
  3) define systematic risk principle
@@ -25,7 +26,7 @@
   * security market line (SML) is the relationship between risk and return
   * beta coefficient
  
-  ## expected returns and variances
+## expected returns and variances
   * need to review this section
  
    risk premium = expected return - risk-free rate
@@ -35,18 +36,18 @@
    * standard deviation is square root of variance
    
    
-   ## portfolios
+## portfolios
     * portfolio return, variance and portfolio risk are relevant
     * portfolio weights: percentages of total portfolio's value invested in each portfolio asset
   
   
-  ```
+    ```
     portfolio return R(p) = portfolio weight1 * (percentage loss or won) + portfolio weight2 * (percentage loss or won)
     Expected return on portfolio given probability:
     E(R(p)) = probability * E(R(l) + probability * E(R((2))
     ```
     
-    ## announcements, surprises, expected returns
+  ## announcements, surprises, expected returns
     * Total return = Expected return + unexpected return
      R is actual total return, E(R) stands for expected part of the return and U stands for unexpected part
      R = E(R) + U
@@ -56,7 +57,7 @@
      * announcements of interest rates or GDP are important for all companies
      * news about its president, research, sales is specific interest to ocmpany
      
-     ## systematic and unsystematic risk
+## systematic and unsystematic risk
      * systematic risk/nondiversifiable risk/market risk: a type of surprise that affects a  large mumber of assets. Because they have marketwide effects, theyre called market risks. examples are interest rates, GDP, inflation
      * unsystematic risk/diversifiable risk, unique risk, asset-specific risk: affects single asset or small group of assets. unique or asset-specific risks
      R = E(R) + Systematic portion + Unsystematic portion
@@ -70,7 +71,8 @@
      * systematic risk doesnt go away.
      * total risk = systematic risk + unsystematic risk
      
-      ## systematic risk and beta
+ 
+## systematic risk and beta
       * why some assets have a larger risk premium than other assets?
       * systematic risk principle: reward for bearing risk depends only on the systematic risk of an investment. Because unsystematic risk can be eliminated at no cost by diversifying, there is no reward for bearing it.
       * The expected return on  an asset depends only on that asset's sysematic risk
@@ -79,10 +81,12 @@
       * beta should not be taken without question...
       * assets with larger betas have greater systematic risks, probably greater expected returns
       
-      ## portfolio beta
+     
+     
+  ## portfolio beta
       * B(p) = portfolio weight * asset1beta + portfolio weight * asset2beta
       
-      ## security market line (SML)
+   ## security market line (SML)
       * risk free asset has beta of 0, and by definition has no systematic or unsystematic risk
       * the reward-to-risk ratio must be the same for all assets in the market
       * the line to describe relationship between systematic risk and expected return in financial markets

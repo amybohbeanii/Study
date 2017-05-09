@@ -27,7 +27,9 @@
  
   ## expected returns and variances
   * need to review this section
-   ```
+ 
+ 
+ ```
    risk premium = expected return - risk-free rate
    ```
    
@@ -38,7 +40,9 @@
    ## portfolios
     * portfolio return, variance and portfolio risk are relevant
     * portfolio weights: percentages of total portfolio's value invested in each portfolio asset
-    ```
+  
+  
+  ```
     portfolio return R(p) = portfolio weight1 * (percentage loss or won) + portfolio weight2 * (percentage loss or won)
     Expected return on portfolio given probability:
     E(R(p)) = probability * E(R(l) + probability * E(R((2))
@@ -61,7 +65,8 @@
      
      ## Diversification and portfolio risk
      * principle of diversification: spreading an investment across many assets will eliminate some of the risk. The diveersificable risk is the part that can be eliminated by diversfiication
-     ![Image of role](https://github.com/amybohbeanii/Study/blob/master/diversification.png)
+   
+   ![Image of role](https://github.com/amybohbeanii/Study/blob/master/diversification.png)
      
      * unsystematic risk is essentially eliminated by diversification, so a relatively large portfolio has almost no unsystematic risk
      * systematic risk doesnt go away.
@@ -84,7 +89,8 @@
       * the reward-to-risk ratio must be the same for all assets in the market
       * the line to describe relationship between systematic risk and expected return in financial markets
       * after NPV, SML is most important concept in modern finance
-      ![Image of role](https://github.com/amybohbeanii/Study/blob/master/sml.png)
+ 
+ ![Image of role](https://github.com/amybohbeanii/Study/blob/master/sml.png)
       
       * market risk premium is the risk premium on a market portfolio E(R(m)) - R(f)
       * capital asset pricing model (CAPM) E(R(f) = R(f) + [E(R(m)) - R(f)] * B(f)

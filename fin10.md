@@ -87,7 +87,7 @@
   * arithmetic average return: what you earn in a particular year
   * geometric average return: average compound return per year over a particular period, always smaller
   * arithmetic avg return is probably too high for longer periods, and geo. too low for shortter periods.
-  * use arithmetic for long run projects and short run projects use geometric
+  * 15-20 years or less arithmetic, 40+ years use geometric
   
   ```
   if we have T years of returns,

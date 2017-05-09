@@ -100,6 +100,7 @@
   ![Image of role](https://github.com/amybohbeanii/Study/blob/master/geometric.png)
   
   ## capital market efficiency
+  * all expected returns are compensation for risk
   * a market is efficient when prices adjust quickly and correctly when new information arrives
   * efficient capital market: current market prices fully reflect available info
   
